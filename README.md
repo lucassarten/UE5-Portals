@@ -1,6 +1,6 @@
 # UE5 Portals
 
-Simple portals made with the UE5 preview build!
+Two-way portals made with the UE5 preview build!
 
 ![portal1](https://user-images.githubusercontent.com/65978608/126066182-40ab716b-e960-47b6-89cd-c60acaa307fe.gif)
 
